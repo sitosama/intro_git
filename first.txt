@@ -1,2 +1,4 @@
 Gitの練習
 練習のためファイルを変更します
+・git add .
+・git commit
