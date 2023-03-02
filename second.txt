@@ -1,3 +1,4 @@
 hennkou
 git diff
 変更しました
+git commit --amend
